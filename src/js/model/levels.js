@@ -12,7 +12,7 @@ module.exports = [
         [20, "zouro"],
         [21, "zouro"]
       ] },
-    { title: "This is such a cold space",
+    { title: "This parking lot is dangerous",
       wave : [
         [1, "zouro"],
         [3, "zouro"],
@@ -27,7 +27,7 @@ module.exports = [
         [24, "zouro"],
         [24, "zouro"]
       ] },
-    { title: "I should not rest",
+    { title: "Do it for Rose",
       wave : [
         [1, "zouro"],
         [3, "zouro"],
@@ -44,7 +44,7 @@ module.exports = [
         [19, "zouro"],
         [19, "zouro"]
       ] },
-    { title: "New friends?",
+    { title: "Smart Pipes, Lookout",
       wave : [
         [1, "zouro"],
         [3, "zouro"],
@@ -59,7 +59,7 @@ module.exports = [
         [26, "ouno"],
         [26, "ouno"]
       ] },
-    { title: "Dehydrated lemon pie. Yummie!",
+    { title: "Shoot it don't snort it",
       wave : [
         [1, "zouro"],
         [2, "zouro"],
@@ -75,7 +75,7 @@ module.exports = [
         [15, "ouno"],
         [15, "ouno"],
       ] },
-    { title: "There has been better holidays",
+    { title: "Do coke instead, K?",
       wave : [
         [1, "zouro"],
         [2, "zouro"],
@@ -97,7 +97,7 @@ module.exports = [
         [26, "ouno"],
         [26, "ouno"],
       ] },
-    { title: "Born to beeee wiiiillldddd!",
+    { title: "Try energy drinks",
       wave : [
         [1, "zouro"],
         [2, "zouro"],
@@ -114,7 +114,7 @@ module.exports = [
         [20, "ouno"],
         [26, "douo"],
       ] },
-    { title: "What is that funky smell?!",
+    { title: "Dont hit the Crown Vic!",
       wave : [
         [1, "zouro"],
         [2, "zouro"],

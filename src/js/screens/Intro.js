@@ -10,7 +10,7 @@ var Intro = React.createClass({
     return <div className="intro">
       <h1 className="from-left">CHERRY STREET ATTACK!!!</h1>
       <h2 className="from-left delay-1">
-        Press <span className="button">RETURN, JOSH</span>
+        Press <span className="button">RETURN, JOSH!</span>
       </h2>
       <div className="ship"></div>
     </div>;

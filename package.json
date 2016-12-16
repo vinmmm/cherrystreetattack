@@ -1,6 +1,10 @@
 {
   "name": "LSX",
   "version": "0.0.1",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "devDependencies": {
     "browserify": "*",
     "grunt": "*",
@@ -13,9 +17,16 @@
   },
   "dependencies": {
     "envify": "^3.2.0",
+    "grunt": "1.0.1",
+    "grunt-cli": "1.2.0",
     "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-uglify": "2.0.0",
     "howler": "^1.1.25",
     "react": "^0.12.1",
     "underscore": "*"
+  },
+
+  "engines": {
+    "node": "4.1.1"
   }
 }

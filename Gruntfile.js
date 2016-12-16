@@ -48,4 +48,10 @@ module.exports = function (grunt) {
   grunt.registerTask('default', ['build', 'watch', 'connect']);
   grunt.registerTask('build', ['browserify:app', 'stylus']);
   //grunt.registerTask('serve', ['connect:server']);
+
+  // Load the plugin that provides the "uglify" task.
+  grunt.loadNpmTasks('grunt-contrib-uglify');
+
+  // Default task(s).
+  grunt.registerTask('default', ['uglify']);
 };
