@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "main": "Gruntfile.js",
   "scripts": {
-  "postinstall": "bower install && grunt build",
+  "postinstall": "npm install && grunt build",
   "start": "grunt connect"
 },
   "devDependencies": {
